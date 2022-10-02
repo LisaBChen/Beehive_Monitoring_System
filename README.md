@@ -10,6 +10,6 @@ MainWebHost.py is the file that is constantly run just as ESP32Scraper.py and it
 To use this code you must run the weather.py code. You must also have flask
 https://flask.palletsprojects.com/en/1.1.x/installation/
 
-A hardware a prototype has been built and is in the testing phase. 
+A hardware prototype has been built and is in the testing phase. 
 
 Questions are to be directed to the Spring/Fall 2021 Beehive Monitoring System team. 
