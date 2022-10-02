@@ -7,10 +7,9 @@ At that point ESP32Scraper.py will be used on a machine on the same network to s
 
 MainWebHost.py is the file that is constantly run just as ESP32Scraper.py and its job is to host the webpage to anyone that requests it.
 
-A hardware a prototype has been built and is in the testing phase. 
-
-Questions are to be directed to the Spring/Fall 2021 Beehive Monitoring System team. 
-
 To use this code you must run the weather.py code. You must also have flask
 https://flask.palletsprojects.com/en/1.1.x/installation/
 
+A hardware a prototype has been built and is in the testing phase. 
+
+Questions are to be directed to the Spring/Fall 2021 Beehive Monitoring System team. 
